@@ -1,0 +1,11 @@
+{
+  "name": "8.10-project-1",
+  "version": "1.0.0",
+  "description": "demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This is a test\""
+  },
+  "author": "",
+  "license": "ISC"
+}
