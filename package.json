@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "serverless": "^3.34.0"
+    "serverless": "^4.0.0"
   },
   "devDependencies": {
     "jest": "^29.6.2",
